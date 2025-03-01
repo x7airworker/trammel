@@ -9,7 +9,7 @@ trammel is a tool for converting C headers into implementable Rust stubs. It aim
 ## Features (Planned)
 
 - Parse C header files (`.h`) and generate Rust stub files (`.rs`).
-- Support for common C types and structures.
+- Support for common C types, structures and functions.
 - Basic macro and function conversion.
 - CLI interface for easy usage.
 
