@@ -1,0 +1,8 @@
+[package]
+name = "trammel"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+lang-c = "0.15.1"
+string-builder = "0.2.0"
